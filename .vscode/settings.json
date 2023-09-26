@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria tes\\Semestre 2\\Analitica descriptiva y visualizacion de datos\\Ejercicios claificables\\Lab3\\SQLite_lab3.csv",
+            "name": "lab3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
